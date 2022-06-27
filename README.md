@@ -1,6 +1,7 @@
 # real-world-vue
 This repo is a fork of the [Vue Mastery course](https://www.vuemastery.com/courses/real-world-vue3), [Real World Vue 3 app](https://github.com/Code-Pop/Real-World_Vue-3).
 
+
 ## 6. Dynamic Routing
 [![Dynamic Routing](https://firebasestorage.googleapis.com/v0/b/gotvotes-71a47.appspot.com/o/images%2Fvideo-play-btn-small.png?alt=media&token=f455fef9-f9b9-461c-8cd6-69b98bec5909)](https://firebasestorage.googleapis.com/v0/b/gotvotes-71a47.appspot.com/o/videos%2F6.dynamic-routing.mp4?alt=media&token=c07b2227-2d78-48e3-a01d-c43d1cdf1b78)  
 
@@ -338,6 +339,4 @@ To continue learning about concepts like route params and other Vue Router topic
 
 In the next lesson, we’re going to learn how to take our app and deploy it into production, using Render.
 
-[<< Previous lesson](https://github.com/RoelZ/Vue-Mastery-Vue-3/tree/L5-start)
- | 
- [Next lesson >>](https://github.com/RoelZ/Vue-Mastery-Vue-3/tree/L7)
+
